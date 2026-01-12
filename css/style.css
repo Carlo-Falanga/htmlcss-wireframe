@@ -11,7 +11,7 @@ body {
 
 /* Header */
 .header_title {
-  padding: 16px;
+  padding: 8px 16px;
 }
 
 .header_line {
@@ -31,3 +31,6 @@ body {
 }
 
 /* Footer */
+.footer_padding {
+  padding: 8px 16px;
+}
