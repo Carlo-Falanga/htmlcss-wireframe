@@ -9,15 +9,15 @@ body {
   width: 512px;
 }
 
-/* Header */
-.header_title {
-  padding: 8px 16px;
-}
-
-.header_line {
+hr {
   border-style: solid;
   border-width: 1.5px;
   border-color: black;
+}
+
+/* Header */
+.header_padding {
+  padding: 8px 16px;
 }
 
 /* Main */
