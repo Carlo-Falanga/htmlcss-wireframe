@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header_title {
+  padding: 16px;
+}
+
+.header_line {
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: black;
+}
